@@ -41,8 +41,8 @@ Implementado con **.NET 8** siguiendo una arquitectura **DDD simple**.
    git clone https://github.com/gianpvp99/OMS-IntegrationService.git
     cd OMS-IntegrationService
    dotnet run --project OMSIntegrationService.API
-2. El servicio correrá en https://localhost:7245/swagger/index.html
-
+2. El servicio correrá en  https://localhost:44338/swagger/index.html  o  https://localhost:7245/swagger/index.html .
+(recomendación ejecutar el proyecto con IIS Express o https)
 ## Ejemplo de usos (Probar con urls existentes)
 
 ## 1. Evento NOT DELIVERED
